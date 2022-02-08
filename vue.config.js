@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/vue-bento/',
+  publicPath: '/vue-bento',
   transpileDependencies: [
     'vuetify'
   ]
